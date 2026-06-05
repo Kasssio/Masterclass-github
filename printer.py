@@ -5,3 +5,7 @@ def Grito():
     return
 
 Grito()
+
+def Saludo():
+    print("HOLA :)")
+    return
